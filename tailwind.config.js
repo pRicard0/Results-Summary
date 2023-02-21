@@ -21,10 +21,10 @@ module.exports = {
       spacing: {
         'section-W': '22.5rem',
         'section-H': '31.25rem',
-        '3.5': '0.875rem'
+        '3.5': '0.875rem',
       },
-      transitionDuration: {
-        '250':'2000ms'
+      borderRadius: {
+        '4xl':'2.25rem'
       }
     },
     fontFamily: {
