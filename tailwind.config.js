@@ -17,6 +17,14 @@ module.exports = {
         'Pale-blue': 'hsl(221, 100%, 96%)',
         'Light-lavender': 'hsl(241, 100%, 89%)',
         'Dark-gray-blue': 'hsl(224, 30%, 27%)',
+      },
+      spacing: {
+        'section-W': '22.5rem',
+        'section-H': '31.25rem',
+        '3.5': '0.875rem'
+      },
+      transitionDuration: {
+        '250':'2000ms'
       }
     },
     fontFamily: {
